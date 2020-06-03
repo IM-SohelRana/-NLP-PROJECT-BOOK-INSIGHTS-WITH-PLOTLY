@@ -1,0 +1,2 @@
+# -NLP-PROJECT-BOOK-INSIGHTS-WITH-PLOTLY
+Plotly-Dash NLP project. Document similarity measure using Latent Dirichlet Allocation, principal component analysis and finally follow with KMeans clustering. Project is completed with dynamic visual interaction. latentdirichletallocation kmeans-clustering pca plotly-dash nlp-machine-learning nlp stemming lemmatization corpus-processing french-nlp stopwords-removal unsupervised-machine-learning clustering-algorithm elbow-method silhouette dash plotly plotly-analytics-projects plotly-python callbacks
